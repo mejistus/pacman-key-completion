@@ -13,7 +13,7 @@
 ### Oh My Zsh
 
 ```bash
-git clone https://github.com/<your-user>/pacman-key-completion \
+git clone https://github.com/mejistus/pacman-key-completion \
   ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/pacman-key-completion
 ```
 
